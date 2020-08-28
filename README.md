@@ -1,1 +1,1 @@
-# CORE-TwitterBot
+# Twitter Bot
